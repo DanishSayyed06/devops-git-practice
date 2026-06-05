@@ -39,11 +39,11 @@ git commit -m "your commit"
 git push origin < your branch >
 
 
-# pull changes 
+# Pull changes 
 
 git pull origin < your branch >
 
-# to check status
+# To check status
 
 git status 
 
@@ -55,6 +55,7 @@ git clone < Repo URL >
 
 git log 
 
+- Check the logs
 
 
 
