@@ -11,28 +11,28 @@ git --version
 
 # Config for local to git account 
 
+- To connect with local
+
 git --global user.name "Enter the name"
 git --global user.email "Enter the email"
 
-- To connect with local
 
-# To create empty repo
+# To initialize a  repo
 
 git init
 
-- Initialize a repo 
+ 
 
 # To stage 
 
 git add < File >
 
-- stage a file
+
 
 # To commit 
 
 git commit -m "your commit"
 
-- commit staged change 
 
 # To Push 
 
@@ -49,13 +49,13 @@ git status
 
 # To clone Repo 
 
-git clone < Repo URL >
+git clone < Repo URL > 
 
 # To check logs 
 
 git log 
 
-- Check the logs
+
 
 
 
