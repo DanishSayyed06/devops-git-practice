@@ -2,7 +2,7 @@
 
 ## Setup & Config
 
-# if git is not installed 
+# If git is not installed 
 sudo apt-get update 
 sudo install git -y
 
@@ -14,17 +14,25 @@ git --version
 git --global user.name "Enter the name"
 git --global user.email "Enter the email"
 
-# to create empty repo
+- To connect with local
 
-git init 
+# To create empty repo
+
+git init
+
+- Initialize a repo 
 
 # To stage 
 
 git add < File >
 
+- stage a file
+
 # To commit 
 
 git commit -m "your commit"
+
+- commit staged change 
 
 # To Push 
 
